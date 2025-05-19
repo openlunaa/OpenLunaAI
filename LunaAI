@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>OpenLunaAI – Trợ Lý AI Đa Ngôn Ngữ</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+      background: linear-gradient(to right, #141e30, #243b55);
+      color: white;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      text-align: center;
+    }
+
+    h1 {
+      font-size: 2.5em;
+      margin-bottom: 0.2em;
+    }
+
+    p {
+      font-size: 1.2em;
+      max-width: 600px;
+      line-height: 1.6;
+    }
+
+    .badge {
+      margin-top: 1.5em;
+      padding: 10px 20px;
+      background: #00c6ff;
+      border-radius: 25px;
+      color: #000;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <h1>🚀 Chào mừng đến với OpenLunaAI</h1>
+  <p>
+    Đây là trợ lý AI đa ngôn ngữ hoạt động 24/7, hỗ trợ doanh nghiệp và cộng đồng trên toàn cầu bằng sức mạnh của trí tuệ nhân tạo.
+  </p>
+  <div class="badge">openlunaai.com</div>
+</body>
+</html>
